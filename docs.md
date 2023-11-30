@@ -5,4 +5,4 @@ Note that this toothbrush is totally safe to use for children, adults, pets, wil
 
 The toothbrush requires [need info here].
 
-This is a sample line for mergering branch.
+This is a sample line for mergering branch. Main branch conflict changes.
